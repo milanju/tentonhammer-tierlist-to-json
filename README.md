@@ -1,0 +1,1 @@
+# tentonhammer tierlist to json
